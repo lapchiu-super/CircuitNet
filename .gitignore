@@ -29,3 +29,5 @@ gen_anno/*
 *.tar.gz
 
 nohup.out
+
+checkpoint/*
